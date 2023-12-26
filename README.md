@@ -1,5 +1,5 @@
 # Project Overview
-- The 'TextModel' class in Python, serving as a omprehensive tool for analyzing and comparing textual content. This was developed as my final project in CS111 in hopes of being able to detect whether multiple pieces of text are written by the same author.
+- The 'TextModel' class in Python, serving as a comprehensive tool for analyzing and comparing textual content. This was developed as my final project in CS111 in hopes of being able to detect whether multiple pieces of text are written by the same author.
 
 ## Core Functionalities
 - **Model Initialization:** Initializes with a model name and creates dictionaries for words, word lengths, stems, sentence lengths, and first-person pronouns.
